@@ -1,0 +1,52 @@
+I:/D2/d2lib.v {1 {vlog -work work -stats=none I:/D2/d2lib.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module INV1
+-- Compiling module INV10
+-- Compiling module BUF4
+-- Compiling module TIE0
+-- Compiling module TIE1
+-- Compiling module XNR2
+-- Compiling module XOR2
+-- Compiling module NAND2
+-- Compiling module NAND3
+-- Compiling module NAND4
+-- Compiling module NOR2
+-- Compiling module NOR3
+-- Compiling module NOR4
+-- Compiling module DFFR
+-- Compiling module MUX2
+
+Top level modules:
+	INV1
+	INV10
+	BUF4
+	TIE0
+	TIE1
+	XNR2
+	XOR2
+	NAND2
+	NAND3
+	NAND4
+	NOR2
+	NOR3
+	NOR4
+	DFFR
+	MUX2
+
+} {} {}} I:/D2/Schematics/testbench_verilog.v {1 {vlog -work work -stats=none I:/D2/Schematics/testbench_verilog.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} I:/D2/Schematics/TEAMBD_Schematics1/TEAMBD_HALFADDER/TEAMBD_HALFADDER.v {1 {vlog -work work -stats=none I:/D2/Schematics/TEAMBD_Schematics1/TEAMBD_HALFADDER/TEAMBD_HALFADDER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Design_Globals
+-- Compiling module TEAMBD_HALFADDER
+
+Top level modules:
+	Design_Globals
+	TEAMBD_HALFADDER
+
+} {} {}}

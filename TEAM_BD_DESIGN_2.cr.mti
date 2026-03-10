@@ -1,0 +1,57 @@
+I:/D2/d2lib.v {1 {vlog -work work -stats=none I:/D2/d2lib.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module INV1
+-- Compiling module INV10
+-- Compiling module BUF4
+-- Compiling module TIE0
+-- Compiling module TIE1
+-- Compiling module XNR2
+-- Compiling module XOR2
+-- Compiling module NAND2
+-- Compiling module NAND3
+-- Compiling module NAND4
+-- Compiling module NOR2
+-- Compiling module NOR3
+-- Compiling module NOR4
+-- Compiling module DFFR
+-- Compiling module MUX2
+
+Top level modules:
+	INV1
+	INV10
+	BUF4
+	TIE0
+	TIE1
+	XNR2
+	XOR2
+	NAND2
+	NAND3
+	NAND4
+	NOR2
+	NOR3
+	NOR4
+	DFFR
+	MUX2
+
+} {} {}} I:/D2/Schematics/TEAMBD_DESIGN_2.v {1 {vlog -work work -stats=none {I:\D2\Schematics\TEAMBD_DESIGN_2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module TEAMBD_INVERTER
+-- Compiling module TEAMBD_SEQUENCER_DIGIT3
+-- Compiling module TEAMBD_BUTTONSYNC_3
+-- Compiling module TEAMBD_SEQUENCER_DIGIT4
+-- Compiling module TEAMD_MULTIPLEXER
+-- Compiling module TEAMD_HALFADDER
+-- Compiling module TEAMD_FULL_ADDER
+-- Compiling module TEAMD_4_BIT_ADDER
+-- Compiling module TEAMD_4_BIT_MULTIPLIER
+-- Compiling module TEAMD_4_BIT_SUBTRACTOR
+-- Compiling module TEAMD_ALU_
+-- Compiling module TEAMBD_FULLRINGOSCILLATOR
+-- Compiling module TEAMBD_DIGIT_SELECTION
+-- Compiling module TEAMBD_DECODER
+-- Compiling module TEAMBD_DESIGN_2
+
+Top level modules:
+	TEAMBD_DESIGN_2
+
+} {} {}}
